@@ -24,7 +24,7 @@ Após a limpeza, padronização e integração das bases, a análise foi conduzi
 
 Como etapa complementar, foi realizada uma análise de segmentação utilizando **PCA + K-Means**. A melhor solução encontrada foi de **3 clusters**.
 
-### :bangbang: O grupo com maior risco apresentou: 
+### :warning: O grupo com maior risco apresentou: 
 
 - **churn de 45,7%**;
 - **baixo tempo médio de permanência**;
